@@ -48,8 +48,6 @@ class node_tree(object):
         self.right=right
     def children(self):
         return(self.left,self.right)
-    def nodes (self):
-        return (self.left,self.right)
 
 def huffman_code_tree(node,left=True,binString=''):
     if type(node) is str:
