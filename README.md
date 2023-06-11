@@ -97,6 +97,11 @@ for (char,frequency)in freq:
 **Input String**
 
 <img src="https://github.com/Kaushika-Anandh/Huffman-Coding/blob/main/1.PNG" width="400" height="30">
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Huffman Coding** 
 
