@@ -38,7 +38,7 @@ To implement Huffman coding to compress the data using Python.
 - **Step5:** Print the characters and its huffmancode.
 
 ## Program:
-> Developed by:Kaushika.A
+> Developed by:Kaushika.A <br>
 > reg no: 212221230048
 
 **Get the input String**
