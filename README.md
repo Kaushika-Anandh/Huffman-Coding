@@ -102,10 +102,15 @@ for (char,frequency)in freq:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Huffman Coding** 
 
-<img src="https://github.com/Kaushika-Anandh/Huffman-Coding/blob/main/2.PNG" width="200" height="330">
+<img src="https://github.com/Kaushika-Anandh/Huffman-Coding/blob/main/2.PNG" width="200" height="300">
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
