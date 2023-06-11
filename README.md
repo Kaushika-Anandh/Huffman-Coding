@@ -1,4 +1,29 @@
-# Huffman-Coding
+Exp.No : 12 
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+&emsp;
+Date : 31.05.2023 
+<br>
+# Implementation of Huffman Coding Algorithm
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -75,7 +100,7 @@ for (char,frequency)in freq:
 
 **Huffman Coding** 
 
-<img src="https://github.com/Kaushika-Anandh/Huffman-Coding/blob/main/2.PNG" width="400" height="630">
+<img src="https://github.com/Kaushika-Anandh/Huffman-Coding/blob/main/2.PNG" width="200" height="330">
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
